@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @w41ter
 - 👀 I’m interested in Database System
+- 🌱 I’m currently building a distributed transactional KV store [sekas](https://github.com/w41ter/sekas)
 
 
 <!---
